@@ -1,7 +1,7 @@
-## Eai, tudo bem??
-## Meu nome é Lorenzo Kersting
+## Olá Mundo!
+## Sou o Lorenzo de Castro
 
-Formado em técnico em informática pelo IFSul - Charqueadas e atualmente cursando Engenharia de Controle e Automação na mesma instituição, foquei durante a aprendizagem técnica minhas pesquisas para Fog, Cloud, Smart City e Health Care systems, tendo publicado meu primeiro artigo científico em Janeiro de 2020. Sempre me interessei por pesquisa e estou aberto para convites relacionados a projetos científicos e escrita de artigos.
+Mente criativa, focado em trazer resultado e construir soluções enterprise de qualidade. Desenvolvedor guiado a dados, como foco em Business Inteligence e Data Analytics. 
 
 ## Experiência
 
